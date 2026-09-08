@@ -6,7 +6,7 @@ A powerful, feature-rich Discord server management tool designed for mass operat
 
 ## 📸 Interface Preview
 
-![Nuker Control Panel](screenshots/preview.png)
+![Nuker Control Panel](https://imgur.com/QoMo0yF)
 
 ## ⚡ Features
 
